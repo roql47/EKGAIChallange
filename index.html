@@ -16,19 +16,7 @@
   <title>중앙대학교 광명병원 심전도앱 접속</title>
   <link rel="manifest" href="manifest.json">
 </head>
-  <script>
-    // Service Worker 지원 여부 확인 후 등록
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/service_worker.js')
-        .then(function(registration) {
-          console.log('Service Worker registered with scope:', registration.scope);
-        })
-        .catch(function(error) {
-          console.error('Service Worker registration failed:', error);
-        });
-    }
-  </script>
-
+  
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
