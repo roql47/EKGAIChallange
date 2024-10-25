@@ -1,6 +1,6 @@
 {
-    "name": "basicecg",
-    "short_name": "basicecg",
+    "name": "중앙대학교 광명병원 심전도앱 접속",
+    "short_name": "중앙대학교 광명병원 심전도앱 접속",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
