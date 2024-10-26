@@ -333,14 +333,22 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "1a4a097e17ceee03ae7a8df9253ac51a",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "2d71c27e71d04ddc175d564350e46cd7",
+=======
+"flutter_bootstrap.js": "6bf69fd077fb7ba79478ccabcfe73a13",
+>>>>>>> origin/gh-pages
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "08c37ce7fed696ec9805b4725f1f7805",
 "/": "08c37ce7fed696ec9805b4725f1f7805",
+<<<<<<< HEAD
 "main.dart.js": "b7527fba047153bb37c9780277965c10",
+=======
+"main.dart.js": "2261e8c97aa95e52fe10fa17494b8278",
+>>>>>>> origin/gh-pages
 "manifest.json": "6d4886efd5f57ab4a40f9019fc40a732",
 "version.json": "234509b49bb228c0b240a10636562663"};
 // The application shell files that are downloaded before a service worker can
