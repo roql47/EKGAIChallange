@@ -1,5 +1,5 @@
 {
-    "name": "basicecg",
+    "name": "교육용심전도앱",
     "short_name": "basicecg",
     "start_url": ".",
     "display": "standalone",
