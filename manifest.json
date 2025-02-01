@@ -1,6 +1,6 @@
 {
-    "name": "basicecg",
-    "short_name": "basicecg",
+    "name": "교육용심전도앱",
+    "short_name": "교육용심전도앱",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
